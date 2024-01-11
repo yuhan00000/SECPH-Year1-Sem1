@@ -1,1 +1,2 @@
-abc
+## REFLECTION
+By the end of the course, I am able to solve problems using set theory, relations, and functions. Besides, I can also utilize proof techniques to improve my logical thinking, design an algorithms using recurrence relations and counting methods. Other than that, I can construct digital circuits using deterministic finite automata and finite state machines and lastly I've learned a new programming language.
