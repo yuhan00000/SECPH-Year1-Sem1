@@ -1,1 +1,2 @@
-abc
+# REFLECTION
+My knowledge of organized problem solving strategies, such as input and output statements and control structures with sequential, selection, and loop components, is both theoretical and practical. Aside from that, I've also learned about pointers, files, and arrays. As a result, I was able to create a whole C++ source code to tackle a basic problem by completing the case study project.
