@@ -1,3 +1,7 @@
+# GROUP 3 MEMBERS 😎
+![tis group3 members](https://github.com/yuhan00000/SECPH-Year1-Sem1/assets/148309770/6953fb97-a70e-4a80-b14a-a640e812c88d)
+
+
 # REFLECTION
 ## ASSIGNMENT 1 POSTER
 This career discussion has motivated me by emphasizing the value of self-evaluation. Understanding our own interests, strengths, and weaknesses is necessary in order to set and accomplish the ideal goal. To be competitive in the work market, we also need to be flexible enough to overcome any problem, such as keeping up with industry changes and acquiring new skills or certifications.
