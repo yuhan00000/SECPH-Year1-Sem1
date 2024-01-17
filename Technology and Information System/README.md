@@ -1,13 +1,14 @@
 # GROUP 3 MEMBERS 😎
 ![tis group3 members](https://github.com/yuhan00000/SECPH-Year1-Sem1/assets/148309770/6953fb97-a70e-4a80-b14a-a640e812c88d)
 
+# VIDEO ASSIGNMENT 2
+Click here for [video](https://youtu.be/txiz29MHVzg?feature=shared) <br>
 
 # REFLECTION
 ## ASSIGNMENT 1 POSTER
 This career discussion has motivated me by emphasizing the value of self-evaluation. Understanding our own interests, strengths, and weaknesses is necessary in order to set and accomplish the ideal goal. To be competitive in the work market, we also need to be flexible enough to overcome any problem, such as keeping up with industry changes and acquiring new skills or certifications.
 
 ## ASSIGNMENT 2 VIDEO
-Click here for [video](https://youtu.be/txiz29MHVzg?feature=shared) <br>
 Industry talks and visits to UTM Digital is beneficial to me. Industry visits were often attended by professionals in the field. I get to network with top employees and learn interesting information about the industry. I can also find out about recent advancements in the industry. I get knowledge about the state of the IT industry at the moment. This will help me understand and stay current with the latest technology developments. For example, the staff has shown us the teaching technologies that UTM uses and backup preparations for power outages. We also visited Bilik TM, which has Huawei IdeaHub wireless sharing and conferencing equipment installed.
 
 ## ASSIGNMENT 3 ACADEMIC REPORT
